@@ -91,12 +91,12 @@ Well done! Now you have created an XML sitemap and successfully submitted it to 
 2.  To help search engines crawl your site
 3.  To increase speed of your site
 
-Correct answer: 2. To help search engines crawl your site  
+**Answer**: 2. To help search engines crawl your site  
 
 * * *
 
 ## Additional Resources
 
-*   [Google XML sitemaps plugin FAQ](https://wordpress.org/plugins/google-sitemap-generator/faq/)
+*   [Google XML sitemaps plugin FAQ](https://wordpress.org/plugins/google-sitemap-generator/#faq)
 
 * * *
